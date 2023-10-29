@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @3Emran
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Emran Hossain.
+- 👀 I’m interested in Web programming.
+- 🌱 I’m currently learning JavaScript.
+- 💞️ I’m looking to collaborate on Web Development.
+- 📫 You can reach me on Facebook or via email.
 
-<!---
-3Emran/3Emran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+If you have any specific questions or if there's anything more you'd like to know or discuss related to web programming,
+JavaScript, or Web development, please feel free to ask.
